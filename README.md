@@ -2,7 +2,8 @@
 Learning CS
 
 
-I aim to learn CS or SoftEng via University. Currently, I am weighing up deciding on where to study.
+I aim to learn CS or SoftEng via University.
+Currently, I am weighing up deciding on where to study (and have received placement offers).
 This repo will help me decide on what I am doing, and aid in asking for help if necessary.
 
 ---
